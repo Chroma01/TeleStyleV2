@@ -1,6 +1,6 @@
 # <div align="center">TeleStyle V2: Beyond Content-Preserving Style Transfer with Self-Distillation and Distribution-Matching-Distillation</div>
 <div align="center">
-    Shiwen Zhang, Yifan Xu, Haibin Huang, Chi Zhang, Xuelong Li
+    <a href="https://witcherofresearch.github.io/">Shiwen Zhang</a>, Yifan Xu, Haibin Huang, Chi Zhang, Xuelong Li
     <br>
     Institute of Artificial Intelligence, China Telecom (TeleAI) 
 </div>
